@@ -1,0 +1,12 @@
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/Patrik-07/TicTacToe.git
+[submodule "FlutterSnake"]
+	path = FlutterSnake
+	url = https://github.com/Patrik-07/FlutterSnake.git
+[submodule "AsteroidMiningGame"]
+	path = AsteroidMiningGame
+	url = https://github.com/Patrik-07/AsteroidMiningGame.git
+[submodule "CSnake"]
+	path = CSnake
+	url = https://github.com/Patrik-07/CSnake.git
